@@ -1,0 +1,21 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>E-Commerce-Plateform</groupId>
+  <artifactId>E-Small-Commerce</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>war</packaging>
+  <name>E-Commerce Plateform</name>
+  <description>this plateform is a small kind of utility to use to command products</description>
+  
+  
+  <!-- dependencies -->
+  <dependencies>
+  
+  
+  
+  </dependencies>
+  
+  
+  
+  
+</project>
